@@ -1,4 +1,4 @@
-# Assignment 3 (Autograded): Numerical Quadrature + Interpolation
+# Programming Assignment 2 (Autograded): Numerical Quadrature + Interpolation
 
 You will submit **one file** to Gradescope:
 
